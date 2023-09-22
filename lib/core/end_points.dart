@@ -1,0 +1,1 @@
+const String registerEndPoint = 'auth/register';
